@@ -1,0 +1,90 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "inject-script-webpack-plugin",
+        "scope": null,
+        "escapedName": "inject-script-webpack-plugin",
+        "name": "inject-script-webpack-plugin",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\gopro\\webpack"
+    ]
+  ],
+  "_from": "inject-script-webpack-plugin@latest",
+  "_id": "inject-script-webpack-plugin@1.0.1",
+  "_inCache": true,
+  "_location": "/inject-script-webpack-plugin",
+  "_nodeVersion": "6.9.4",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/inject-script-webpack-plugin-1.0.1.tgz_1500606371229_0.16692707920446992"
+  },
+  "_npmUser": {
+    "name": "hugh29",
+    "email": "chenhaoyang0529@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "inject-script-webpack-plugin",
+    "scope": null,
+    "escapedName": "inject-script-webpack-plugin",
+    "name": "inject-script-webpack-plugin",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/inject-script-webpack-plugin/-/inject-script-webpack-plugin-1.0.1.tgz",
+  "_shasum": "d8fed32b259227c0d20fc7ce3e8cda6ad8901bdb",
+  "_shrinkwrap": null,
+  "_spec": "inject-script-webpack-plugin",
+  "_where": "D:\\gopro\\webpack",
+  "author": {
+    "name": "Hugh"
+  },
+  "bugs": {
+    "url": "https://github.com/Hugh0529/InjectScriptWebpackPlugin/issues"
+  },
+  "dependencies": {
+    "os": "^0.1.1"
+  },
+  "description": "webpack plugin to auto inject script, when you need debug",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "d8fed32b259227c0d20fc7ce3e8cda6ad8901bdb",
+    "tarball": "https://registry.npmjs.org/inject-script-webpack-plugin/-/inject-script-webpack-plugin-1.0.1.tgz"
+  },
+  "gitHead": "b1b8b0b3ca3eb8a008de9f75fea14f0796a9067d",
+  "homepage": "https://github.com/Hugh0529/InjectScriptWebpackPlugin#readme",
+  "keywords": [
+    "inject",
+    "script",
+    "webpack",
+    "plugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "hugh29",
+      "email": "chenhaoyang0529@gmail.com"
+    }
+  ],
+  "name": "inject-script-webpack-plugin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hugh0529/InjectScriptWebpackPlugin.git"
+  },
+  "scripts": {},
+  "version": "1.0.1"
+}
